@@ -1,3 +1,5 @@
+###### Depreciated: See [regulad/SuperMatchmaker](https://github.com/regulad/SuperMatchmaker)
+
 # Matchmaker
 
 Matchmaker is a BungeeCord plugin used to make matches on [ender.quest](https://www.ender.quest).
